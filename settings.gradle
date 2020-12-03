@@ -1,0 +1,2 @@
+rootProject.name = 'petstore-gradle-plugin-with-subproject'
+include 'petstore-api'
